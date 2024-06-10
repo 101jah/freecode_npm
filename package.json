@@ -3,6 +3,7 @@
 	"author": "Li Jah",
 	"description": "A project that does something good",
 	"keywords": [ "descriptive", "related", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
