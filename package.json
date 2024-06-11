@@ -4,6 +4,7 @@
 	"description": "A project that does something good",
 	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"license": "Jah",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
